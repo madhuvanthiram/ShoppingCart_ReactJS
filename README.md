@@ -1,7 +1,7 @@
 A simple Shopping cart built with React, JavaScript, and CSS.
 Installation and Setup Instructions
 Clone down this repository. You will need node and npm installed globally on your machine.
-Installation:
+
 Install node modules
 npm install
 In the project directory, you can run:
