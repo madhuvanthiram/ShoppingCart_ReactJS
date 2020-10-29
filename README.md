@@ -1,4 +1,4 @@
-A simple Shopping cart built with React, JavaScript, and CSS.
+A  Shopping cart built with React, JavaScript, and CSS.
 
 Installation and Setup Instructions.
 
