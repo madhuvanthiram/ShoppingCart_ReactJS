@@ -1,19 +1,6 @@
 A  Shopping cart built with React, JavaScript, and CSS.
 
 
-![alt text](screenshots/screenshot1.png "Shopping cart main page")
-
-![alt text](screenshots/screenshot2.png "After clicking Add to Cart button")
-
-![alt text](screenshots/screenshot3.png "Once the cart button is clicked , a pop up box appears")
-
-
-![alt text](screenshots/screenshot4.png "Quantity can be incremented or decremented and total amount is calculated")
-
-![alt text](screenshots/screenshot5.png "Once the  quantity is decremented the amount is updated the also the shopping cart")
-
-![alt text](screenshots/screenshot6.png "The delete button removes the item from the cart")
-
 
 
 Installation and Setup Instructions.
