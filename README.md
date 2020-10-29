@@ -24,4 +24,4 @@ This was a 4 week long project built during my free time at home. I started lear
 
 The technologies implemented in this project are React, JSX, and CSS. I chose to use the create-react-app boilerplate to minimize initial. 
 
-DISCLAIMER:All images used here are for illustrative purposes only and not for any commercial purpose.
+
