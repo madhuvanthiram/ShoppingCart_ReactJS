@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import dressimage1 from "./dress1.jpg";
-import dressimage2 from "./dress2.jpg";
-import dressimage3 from "./dress3.jpg";
+import image1 from "./pic1.jpg";
+import image2 from "./pic2.png";
+import image3 from "./pic3.jpg";
 import cart from "./cart.jpg";
 import "./Shopping.css";
 
@@ -20,26 +20,26 @@ class ShoppingCart extends Component {
     Shoppinglist: [
       {
         id: 1,
-        img: dressimage1,
-        name: "pink Dress",
-        price: "20",
+        img: image1,
+        name: "Paper plate car handmade  with water colours",
+        price: "10",
         Quantity: 0,
         inCart: false,
       },
       {
         id: 2,
-        img: dressimage2,
-        name: "Blue Dress",
-        price: "30",
+        img: image2,
+        name: "News paper tree painted with water colours",
+        price: "5",
         Quantity: 0,
         inCart: false,
       },
 
       {
         id: 3,
-        img:dressimage3,
-        name: "green Dress",
-        price: "55",
+        img:image3,
+        name: "Paper plate watermelon handmade with water colours",
+        price: "6",
         Quantity: 0,
         inCart: false,
       },
@@ -101,8 +101,11 @@ class ShoppingCart extends Component {
 
     return (
       <div>
+          <h1><b>DIY Crafts</b></h1>
         {this.state.showcomp ? passcmp : null}
+      
        {this.state.count===0?<b>No items in cart</b> : <p><b>{this.state.count}</b></p>}
+    
       
         <h1>{listitems}</h1>
       </div>
