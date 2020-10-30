@@ -1,5 +1,12 @@
 A  Shopping cart built with React, JavaScript, and CSS.
 
+![alt text](screenshots/screenshot1.png "click Add To Cart button to add items to cart")
+
+![alt text](screenshots/screenshot2.png "the cart updates and clicking it will open a modal ")
+
+![alt text](screenshots/screenshot3.png "the quantity of the items can be incremented /decremented and the total amount is updated")
+
+![alt text](screenshots/screenshot4.png "to remove items from the cart the delete button is clicked which removes item form the cart and updated the cart value and the amount")
 
 
 
