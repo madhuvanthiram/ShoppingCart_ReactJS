@@ -6,7 +6,7 @@ A  Shopping cart built with React, JavaScript, and CSS.
 
 ![alt text](screenshot/screenshot3.png "the quantity of the items can be incremented /decremented and the total amount is updated")
 
-![alt text](screenshot/screenshot4.png "to remove items from the cart the delete button is clicked which removes item form the cart and updated the cart value and the amount")
+![alt text](screenshot/screenshot4.jpg "to remove items from the cart the delete button is clicked which removes item form the cart and updated the cart value and the amount")
 
 
 
